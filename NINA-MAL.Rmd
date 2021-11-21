@@ -1,0 +1,7 @@
+---
+title: "NINA-MAL"
+author: "Markus Fjellstad Israelsen"
+date: "21 11 2021"
+output: word_document
+---
+
